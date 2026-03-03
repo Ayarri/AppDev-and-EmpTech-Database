@@ -1,0 +1,1 @@
+I, Ezekiel Beato have successfully accomplished the activity in creating 5 database using SQL. Thank you for your wonderful teaching! I have learned practical skills in database as part of full-stack development.
